@@ -1,0 +1,26 @@
+@media only screen and (max-width: 600px) {
+
+    h1{
+        font-size: 45px !important;
+    }
+
+    p{
+        font-size: 20px;
+    }
+
+}
+
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+
+    h1{
+        font-size: 45px !important;
+    }
+
+    
+    p{
+        font-size: 20px;
+    }
+
+    
+}

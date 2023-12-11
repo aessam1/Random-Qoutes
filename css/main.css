@@ -1,0 +1,31 @@
+body{
+    color: #fff;
+    background-image: url(../imgs/Background.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    font-weight: bolder;
+    font-size: 84px;
+}
+
+p{
+
+    font-family: 'Caveat', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 34px;
+}
+
+button{
+    padding: 10px 20px !important;
+    font-weight: 800;
+}
+
+button:hover{
+    background-color: #fff !important;
+    border: 1px solid #000 !important;
+    color: #000 !important;
+}
